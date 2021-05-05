@@ -3,7 +3,7 @@
 <p align="center">
    <a href="https://discord.com/users/673166542954823691" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/Furtsy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.npmjs.com/~furtsy"><img src="https://img.shields.io/badge/furtsy%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
+<a href="https://www.npmjs.com/~furtsy"><img src="https://img.shields.io/badge/Npm%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
    <a href="https://www.youtube.com/channel/UCMrbF9WXL42J3APklqnFNHA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://steamcommunity.com/id/Furtsy/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
  <a href="https://www.reddit.com/user/Furtsy" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
