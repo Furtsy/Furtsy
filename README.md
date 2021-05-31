@@ -11,6 +11,7 @@
 <a href="https://www.instagram.com/furtsyxd/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://bit.ly/filminator" target"blank_"><img src="https://img.shields.io/discord/806085066039885834?style=for-the-badge&color=7289da&label=Filminat%C3%B6r&logo=discord"></a>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=Furtsy&label=ziyaret%C3%A7i&color=5f13e9" alt="Furtsy"/>
 </p>
 
 <details align="center">
