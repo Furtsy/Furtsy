@@ -1,4 +1,9 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Furtsy 👋</h2>
+<div align="center">
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/673166542954823691)](https://discord.com/users/673166542954823691)
+
+</div>
 <h3>Hesaplarım:</h3>
 <p align="center">
    <a href="https://discord.com/users/673166542954823691" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -11,7 +16,8 @@
 <a href="https://www.instagram.com/furtsyxd/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://bit.ly/filminator" target"blank_"><img src="https://img.shields.io/discord/806085066039885834?style=for-the-badge&color=7289da&label=Filminat%C3%B6r&logo=discord"></a>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=Furtsy&label=ziyaret%C3%A7i&color=5f13e9" alt="Furtsy"/>
+<br>
+<img src="https://count.getloli.com/get/@Furtsy?theme=moebooru" alt="Furtsy" />
 </p>
 
 <details align="center">
