@@ -1,7 +1,12 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Furtsy 👋</h2>
+
+
+
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/673166542954823691)](https://discord.com/users/673166542954823691)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L15V33S)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/673166542954823691)](https://discord.com/users/673166542954823691)  
 
 </div>
 <h3>Hesaplarım:</h3>
@@ -16,6 +21,7 @@
 <a href="https://www.instagram.com/furtsyxd/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://bit.ly/filminator" target"blank_"><img src="https://img.shields.io/discord/806085066039885834?style=for-the-badge&color=7289da&label=Filminat%C3%B6r&logo=discord"></a>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
+<a href='https://ko-fi.com/L3L15V33S' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
 <img src="https://count.getloli.com/get/@Furtsy?theme=moebooru" alt="Furtsy" />
 </p>
