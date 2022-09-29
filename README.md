@@ -4,7 +4,6 @@
 
 <div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L15V33S)
 
 </div>
 <h3>Hesaplarım:</h3>
