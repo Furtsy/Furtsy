@@ -16,8 +16,6 @@
  <a href="https://www.reddit.com/user/Furtsy" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://open.spotify.com/user/jg9fd0484frnfa0ku6wpogran" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
-<br>
-<img src="https://count.getloli.com/get/@Furtsy?theme=moebooru" alt="Furtsy" />
 </p>
 
 <details align="center">
